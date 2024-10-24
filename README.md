@@ -1,4 +1,4 @@
-<h1 align="center">" ...What I'm about to do has not been approved by the Vatican. "</h3>
+<h1 align="center">" ...What I'm about to do has not been approved by the Vatican. "</h1>
 <p align="center">
 <img src="https://64.media.tumblr.com/0ca28812e1f864d2842f183f2b0c9dbf/555c4b73ed8c0b3e-60/s1280x1920/73b3486abeae0c132acf1c4152559e23fee614e2.pnj" width="1500"/>
 </p>
@@ -28,18 +28,9 @@
 <p align="center">
 <img src="https://64.media.tumblr.com/7ffc8e6b0d72a1a5ccf65b72d2efe95b/555c4b73ed8c0b3e-61/s1280x1920/919909dd97743e77ec42f6161c7e287764090d20.pnj" width="1500"/>
 </p>
-
-<!--
-**poppzicklee/poppzicklee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">Fandoms 'n Interests</h3>
+<p align="center">
+Mouthwashing, FAITH, CRK, Project Sekai, Vocaloid, UTAU, Hatoful Boyfriend, ZZZ, and more!</p>
+<p align="center">
+If you're into any of these fandoms, please int with me..
+</p>
