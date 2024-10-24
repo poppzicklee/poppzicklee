@@ -24,6 +24,8 @@
 </br></br>
 <p align="center">
 <img src="https://cdn.discordapp.com/attachments/1297215407865725004/1298890387276173362/adas.png?ex=671b3570&is=6719e3f0&hm=2e1af13a4b7ac8fb32ba083e31c05ea5dbda6bc3e65700279983286183f70e87&" width=250"/>
+<p align="center">Free for cuddles 24/7 <3<br/>
+</p>
 <p align="center">
 <img src="https://64.media.tumblr.com/7ffc8e6b0d72a1a5ccf65b72d2efe95b/555c4b73ed8c0b3e-61/s1280x1920/919909dd97743e77ec42f6161c7e287764090d20.pnj" width="1500"/>
 </p>
