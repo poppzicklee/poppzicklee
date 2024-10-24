@@ -20,8 +20,7 @@
 <p align="center">(https://poppzickle.atabook.org/)<br/>
 </p>
 </p>
-<p align="center">strawpage coming soon<br/>
-</p>
+<h3 align="center">| ⩇⩇:⩇⩇ |</h3>
 </br></br>
 <p align="center">
 <img src="https://cdn.discordapp.com/attachments/1297215407865725004/1298890387276173362/adas.png?ex=671b3570&is=6719e3f0&hm=2e1af13a4b7ac8fb32ba083e31c05ea5dbda6bc3e65700279983286183f70e87&" width=250"/>
