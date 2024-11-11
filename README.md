@@ -3,7 +3,7 @@
 <img src="https://64.media.tumblr.com/0ca28812e1f864d2842f183f2b0c9dbf/555c4b73ed8c0b3e-60/s1280x1920/73b3486abeae0c132acf1c4152559e23fee614e2.pnj" width="1500"/>
 </p>
 <p align="center">
-<img src="https://cdn.discordapp.com/attachments/1297215407865725004/1298891757852954634/faotj.png?ex=671b36b7&is=6719e537&hm=8fdb2bf0cd544fc4f8768f68f387f1f3ffe1dc92cbbeb406788645da2fce5680&"/>
+<img src="https://cdn.discordapp.com/attachments/1297215407865725004/1298891757852954634/faotj.png?ex=6732f1b7&is=6731a037&hm=e46387f1a163694f57b459f52493872508566a3f62be66d554cd5f4f498eb7f6&"/>
 </p>
 </br></br>
 <p align="center">🟢 : actively on pt/making skins.<br/>
@@ -28,7 +28,7 @@
 </p>
 </br></br>
 <p align="center">
-<img src="https://cdn.discordapp.com/attachments/1297215407865725004/1298890387276173362/adas.png?ex=671b3570&is=6719e3f0&hm=2e1af13a4b7ac8fb32ba083e31c05ea5dbda6bc3e65700279983286183f70e87&" width=250"/>
+<img src="https://cdn.discordapp.com/attachments/1297215407865725004/1298890387276173362/adas.png?ex=6732f070&is=67319ef0&hm=692e375ae072a4fe1f2880c32287b3ebdafeccd661ecfd00a246649dad28354d&" width=250"/>
 <p align="center">Free for cuddles 24/7 <3<br/>
 </p>
 <p align="center">
